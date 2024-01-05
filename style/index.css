@@ -125,3 +125,11 @@ main{
     line-height: 30px;
 
 }
+#what-i-do-description{
+    padding: 30px 250px;
+}
+
+/* skill container style */
+.skill-container{
+    display: flex;
+}
