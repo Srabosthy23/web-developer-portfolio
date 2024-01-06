@@ -54,6 +54,7 @@ header {
     background-image: url('../images/header_bg.png');
     background-repeat: no-repeat;
     background-position: bottom right;
+    background-size: 500px;
 }
 
 /* banner style */
@@ -97,7 +98,7 @@ main {
 
 /* above style */
 
-.above {
+.about {
     border-radius: 10px;
     background: #FFF8F3;
     margin: 100px ;
