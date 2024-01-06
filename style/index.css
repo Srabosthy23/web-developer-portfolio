@@ -100,7 +100,7 @@ main {
 .above {
     border-radius: 10px;
     background: #FFF8F3;
-    margin: 100px 150px;
+    margin: 100px ;
     padding: 100px;
 }
 
@@ -138,6 +138,7 @@ main {
     display: flex;
     /* margin: 100px 150px; */
     gap: 24px;
+    padding: 100px;
 
 }
 
@@ -167,6 +168,7 @@ main section {
 .resume-container {
     display: flex;
     gap: 50px;
+    padding: 100px;
 }
 
 .resume-item-institude{
@@ -193,4 +195,12 @@ main section {
 .download-cv{
     text-align: center;
     margin-top: 50px;
+}
+
+/* footer style */
+footer{
+    display: flex;
+    background: #FFF8F3;
+    padding: 130px 200px;
+    margin-top: 100px;
 }
